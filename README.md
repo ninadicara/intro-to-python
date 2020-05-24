@@ -44,3 +44,5 @@ Windows:
 Mac: `jupyter notebook`   
   
 This will print out some text on your command line, and take you to a browser page where you will be able to see the folder. Now click on the `intro-to-python` file in this browser folder view and you will be able to work on it in a new window.   
+
+When you are finished using it, go back to the terminal and press < ctrl >  + < c > at the same time to stop serving the jupter notebook.
