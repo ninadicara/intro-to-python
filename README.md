@@ -11,12 +11,14 @@ Prerequisites:
 - Having permissions to download software onto your computer  
 
 ### 1. Open up the command line.  
-Windows:   
+Windows: Open the application "Command Promote" or "WindowsPowerShell"
 Mac: Open the application 'Terminal'  
 Linux: We'll assume you know what you're doing, but get in touch if you're stuck!  
 
 ### 2. Check you have Python 3 installed.  
-There are two main Python versions: 2 and 3. Most computers come with at least Python 2 installed, but you should be using Python 3. This steps helps you work out which you have installed, and how to install Python 3 if you don't have it already.  
+There are two main Python versions: 2 and 3. Most computers come with at least Python 2 installed, but you should be 
+using Python 3. This steps helps you work out which you have installed, and how to install Python 3 if you don't have it 
+already.  
   
 Windows:  
 Mac:  
